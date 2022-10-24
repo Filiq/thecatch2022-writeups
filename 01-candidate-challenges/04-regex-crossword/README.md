@@ -18,7 +18,7 @@ From the task, we have one PDF that has a "hexagon" regex crossword.
 
 ![regex crossword](regex-crossword.png)
 
-The solution is simple, we need to solve the regex crossword clue. You just need to know regex &#8203;:)
+The solution is simple, we need to solve the regex crossword. You just need to know regex &#8203;:)
 
 ![regex crossword solved](regex-crossword-solved.png)
 
