@@ -18,7 +18,7 @@ May the Packet be with you!
 
 After downloading the audit archive, which is 371 MB large, we can understand the hint _"Too many images for manual processing, right?"_
 
-_[audit archive example here](packects)_
+_[audit archive reduced example here](packects)_
 
 ![too many images](too-many-images.png)
 
