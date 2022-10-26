@@ -185,7 +185,7 @@ function searchRecursive(paths, alreadyUsed, distance, flag) {
 
 // Get all available routes from a given start point
 function availableRoutes(from, alreadyUsed) {
-  found = PATHS.filter((path) => path[0] === from);
+  let found = PATHS.filter((path) => path[0] === from);
 
   return found.filter((path) => !alreadyUsed.includes(path[1]));
 }
