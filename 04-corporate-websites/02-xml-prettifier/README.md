@@ -24,6 +24,8 @@ I guess we probably need to get content from [/notes](http://prettifier.mysterio
 
 ![notes](notes-forbidden.png)
 
+### Trying XXE attack
+
 Let's see what this XML prettier can do.
 
 ```
