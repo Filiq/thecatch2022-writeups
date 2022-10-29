@@ -125,6 +125,8 @@ In next commit we can see, that the username was changed to `attendance`.
 
 ![git kraken phpmyadmin username](git-kraken-5.png)
 
+### Getting flag
+
 Well, let's try username `attendance` and password `56843437e5c747a2c9c08e4b79f109c3` to log in.
 
 It works! Now I'll just set admin role on my user account.
