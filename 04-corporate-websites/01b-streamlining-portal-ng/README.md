@@ -32,7 +32,7 @@ Let's use some of my python knowledge, instead of `app/FLAG` I will use `os.path
 
 `" + str(eval(str(exec("import os;x=os")))) + str(x.listdir(x.path.join("app", "FLAG"))) + "`
 
-![FLAG directory](app-flag-directory.png)
+![FLAG directory](app-FLAG-directory.png)
 
 Now just open the `flag.txt` file.
 
